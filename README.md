@@ -237,3 +237,6 @@ This repository serves as the official landing page for USB Show. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of USB Show today!**
+
+---
+**Last updated:** 2026-09-09 16:57:23 UTC
