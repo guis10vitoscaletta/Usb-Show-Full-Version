@@ -239,4 +239,4 @@ This repository serves as the official landing page for USB Show. The software i
 **Get the most recent version of USB Show today!**
 
 ---
-**Last updated:** 2026-11-02 23:46:15 UTC
+**Last updated:** 2026-11-03 04:47:04 UTC
